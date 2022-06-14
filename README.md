@@ -10,6 +10,8 @@ There is a Built-in Function in Python Pandas named:
 which is used to Merge files .
 
 What is merge () in Python?
+
+
 Ans : The merge() method updates the content of two DataFrame by merging them together, using the specified method(s).
 
 
